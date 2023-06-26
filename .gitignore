@@ -1,3 +1,5 @@
+# Ignore the key.txt
+Lab3b/key.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
